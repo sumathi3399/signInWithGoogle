@@ -4,7 +4,7 @@ import { useNavigate } from "react-router-dom";
 const Home = () => {
   const navigate = useNavigate();
   return (
-    <div className="flex flex-col p-3 h-screen">
+    <div className="flex flex-col p-3 h-screen bg-teal-50 text-slate-900">
       <div className="flex justify-end items-center">
         {" "}
         <button

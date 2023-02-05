@@ -92,7 +92,7 @@ const SignUp = () => {
           }}
         />
         <button
-          className="bg-orange-200 text-white px-4 py-1 m-2 rounded-md"
+          className="bg-orange-300 text-white px-4 py-1 m-2 rounded-md hover:bg-orange-400"
           type="submit"
         >
           Sign Up
